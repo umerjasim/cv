@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Teko&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+/*	background-color: red;*/
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+.name {
+/*	background-image: url('wp2141419-web-design-wallpapers.png');*/
+	width: 100%;
+	height: 700px;
+	background-size: 100% 100%;
+	background-color: aliceblue;
+}
+.h1 {
+	padding-top: 2rem;
+	font-size: 6rem;
+	font-family: 'Teko', sans-serif;
+	letter-spacing: 5px;
+}
+.soft-img {
+	width: 400px;
+	margin: -40px 0px;
+}
+.h3 {
+	font-size: 3rem;
+}
